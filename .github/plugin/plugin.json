@@ -1,0 +1,27 @@
+{
+  "name": "agentic-dotnet",
+  "description": "Essential prompts, instructions, and chat modes for C# and .NET development including testing, documentation, and best practices.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Cripacx"
+  },
+  "repository": "https://github.com/cripacx/agentic-dotnet",
+  "license": "MIT",
+  "keywords": [
+    "csharp",
+    "dotnet",
+    ".net",
+    "aspnet",
+    "testing"
+  ],
+  "skills": [
+    "./skills/csharp-async",
+    "./skills/aspnet-minimal-api-openapi",
+    "./skills/csharp-xunit",
+    "./skills/csharp-nunit",
+    "./skills/csharp-mstest",
+    "./skills/csharp-tunit",
+    "./skills/dotnet-best-practices",
+    "./skills/dotnet-upgrade"
+  ]
+}
