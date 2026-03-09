@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "agentic-dotnet",
-      "source": "agentic-dotnet",
+      "source": "./",
       "description": "Essential skills for C# and .NET development including testing, documentation, and best practices.",
       "version": "1.0.2"
     }
