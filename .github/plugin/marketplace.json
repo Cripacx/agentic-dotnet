@@ -1,0 +1,19 @@
+{
+  "name": "agentic-dotnet",
+  "metadata": {
+    "description": "Essential skills for C# and .NET development including testing, documentation, and best practices.",
+    "version": "1.0.0",
+    "pluginRoot": "./"
+  },
+  "owner": {
+    "name": "Cripacx"
+  },
+  "plugins": [
+    {
+      "name": "agentic-dotnet",
+      "source": "agentic-dotnet",
+      "description": "Essential skills for C# and .NET development including testing, documentation, and best practices.",
+      "version": "1.0.0"
+    }
+  ]
+}
